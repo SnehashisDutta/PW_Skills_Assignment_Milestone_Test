@@ -1,0 +1,12 @@
+Name: Alice
+Age: 30
+Salary: 60000
+--------------------
+Name: Bob
+Age: 25
+Salary: 50000
+--------------------
+Name: Charlie
+Age: 35
+Salary: 75000
+--------------------
